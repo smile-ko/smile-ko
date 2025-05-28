@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu Duc Tien</h1>
 <h3 align="center">A passionate backend developer from VN</h3>
 
-- 🔭 I’m currently working on ****N**
+- 🔭 I’m currently working on ******
 
 - 🌱 I’m currently learning **Golang**
 
